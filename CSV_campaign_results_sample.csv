@@ -1,0 +1,9 @@
+tel,CallReason,CallType,Name,Email,TaskID,UTCCreated,Status,Queue,Owner,Origin,Lastupdate
+17020000000,Outbound Campaign,Web Scheduled Callback,First LastName #1,Customer1@mail.com,66f606d6-45f3-49b8-9ab2-f963acb94d5a,1679611717877,completed,PP-Outbound-Queue,Supervisor Sup,+17025344088,"23-03-2023, 15:55:36"
+17020000000,Outbound Campaign,Web Scheduled Callback,First LastName #2,Customer2@mail.com,8bb342f7-0038-4565-9c0d-e14bf7077ee4,1679611719589,completed,PP-Outbound-Queue,Supervisor Sup,+17025344088,"23-03-2023, 15:56:09"
+17020000000,Outbound Campaign,Web Scheduled Callback,First LastName #3,Customer3@mail.com,f4f82ede-7629-4b72-b08f-31edc10d0423,1679611721346,assigned,PP-Outbound-Queue,Supervisor Sup,+17025344088,"23-03-2023, 15:56:21"
+17020000000,Outbound Campaign,Web Scheduled Callback,First LastName #4,Customer4@mail.com,f9c9eb3e-2911-4533-b06a-5758b20055b8,1679611722681,queued,PP-Outbound-Queue,,+17025344088,"23-03-2023, 15:48:42"
+17020000000,Outbound Campaign,Web Scheduled Callback,First LastName #1,Customer1@mail.com,4945e85b-5ae1-4a3b-a157-61af281ebd7d,1679611725237,queued,PP-Outbound-Queue,,+17025344088,"23-03-2023, 15:48:45"
+17020000000,Outbound Campaign,Web Scheduled Callback,First LastName #2,Customer2@mail.com,edb0b670-d3c4-4bfc-995b-2d7270d06cd1,1679611725578,queued,PP-Outbound-Queue,,+17025344088,"23-03-2023, 15:48:45"
+17020000000,Outbound Campaign,Web Scheduled Callback,First LastName #3,Customer3@mail.com,f65a5fb3-b835-48f0-be93-71cbc3e184ea,1679611727900,queued,PP-Outbound-Queue,,+17025344088,"23-03-2023, 15:48:48"
+17020000000,Outbound Campaign,Web Scheduled Callback,First LastName #4,Customer4@mail.com,69851740-4b73-44f5-96d2-785f20bdd341,1679611728237,queued,PP-Outbound-Queue,,+17025344088,"23-03-2023, 15:48:48"
