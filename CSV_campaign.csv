@@ -1,0 +1,9 @@
+tel,CallReason,CallType,Name,Email,TaskID,UTCCreated,Status,Queue,Owner,Origin,Lastupdate
++17020000000,Outbound Campaign,Web Scheduled Callback,First LastName #1,Customer1@mail.com,,,,,,,
++17020000000,Outbound Campaign,Web Scheduled Callback,First LastName #2,Customer2@mail.com,,,,,,,
++17020000000,Outbound Campaign,Web Scheduled Callback,First LastName #3,Customer3@mail.com,,,,,,,
++17020000000,Outbound Campaign,Web Scheduled Callback,First LastName #4,Customer4@mail.com,,,,,,,
++17020000000,Outbound Campaign,Web Scheduled Callback,First LastName #1,Customer1@mail.com,,,,,,,
++17020000000,Outbound Campaign,Web Scheduled Callback,First LastName #2,Customer2@mail.com,,,,,,,
++17020000000,Outbound Campaign,Web Scheduled Callback,First LastName #3,Customer3@mail.com,,,,,,,
++17020000000,Outbound Campaign,Web Scheduled Callback,First LastName #4,Customer4@mail.com,,,,,,,
