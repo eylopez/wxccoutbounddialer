@@ -4,6 +4,11 @@
 #
 # WxCC CSV loader
 # Requires authentication token and OutBound entryPointId
+#
+# Welcome to the Outbound loader script, please enter one of the next options 
+# 1.- Load CSV_campaign.csv
+# 2.- Check status of tasks
+# 9.- Exit 
 
 import pandas as pd
 import requests
@@ -44,7 +49,7 @@ headers['Authorization'] = "Bearer " + webextoken
 
 def start():
     menuresponse = input(
-        "Welcome to the Outbound loader script, please enter one of the next options \n1.- Load campaign.csv\n2.- Check status of tasks\n9.- Exit \n")
+        "Welcome to the Outbound loader script, please enter one of the next options \n1.- Load CSV_campaign.csv\n2.- Check status of tasks\n9.- Exit \n")
     if menuresponse == '1':
         df = pd.read_csv(sourcefile)
         for index, row in df.iterrows():
