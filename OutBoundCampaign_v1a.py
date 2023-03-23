@@ -1,10 +1,17 @@
+#
+# Copyright (c) 2023  Eder Lopez <eder.lopez@dyntek.com>
+# All rights reserved.
+#
+# WxCC CSV loader
+# Requires authentication token and OutBound entryPointId
+
 import pandas as pd
 import requests
 import json
 import sys
 from datetime import datetime, timezone
 
-webextoken = "YTEwZGI5NjItOGRhNy00YmFlLWEwNDQtMDI4ZGZkYzY1ZWU1MzcwM2NhNzctYWEz_P0A1_f48b1db4-07cb-4868-828d-eba6ea7d9c36"
+webextoken = "YTEwZGI5NjItOGRhNy00YmFlLWEwNDQtMDI4ZGZkYzY1ZWU1MzcwM2NhNzctYWEz_P0A1_f48b1db4-07cb-4868-828d-eba6ea7d9c37"
 url = "https://api.wxcc-us1.cisco.com/v1/tasks"
 sourcefile = "CSV_campaign.csv"
 workingfile = "CSV_campaign_results.csv"
